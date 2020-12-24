@@ -5,3 +5,21 @@ Stats include alch stone but no other buffs. Normal crystal setup
 Select current accessories from the dropdown and press input gear -- ONLY IF THEY ARE PEN, IF NOT LEAVE AT NONE
 
 If none is selected, assumes tet accessories - disto, basi, tungrad ring, ogre, vell
+
+Prices used:
+
+ itemPrices.insert("Disto", 100);
+    itemPrices.insert("Dawn", 70);
+    itemPrices.insert("Tungrad Ear", 30);
+    itemPrices.insert("Narclet", 25);
+    itemPrices.insert("Basi", 40);
+    itemPrices.insert("Turo", 120);
+    itemPrices.insert("Orkinrad", 30);
+    itemPrices.insert("Centaur", 30);
+    itemPrices.insert("Tungrad Belt", 80);
+    itemPrices.insert("Crescent", 40);
+    itemPrices.insert("Tungrad Ring", 80);
+    itemPrices.insert("Ominous", 90);
+    itemPrices.insert("Ogre", 70);
+    itemPrices.insert("Sicil", 30);
+    itemPrices.insert("Deboreka", 250);
